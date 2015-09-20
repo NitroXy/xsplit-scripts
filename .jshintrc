@@ -1,0 +1,15 @@
+// -*- mode: javascript; -*-
+{
+	"browser": true,
+	"eqnull": true,
+	"undef": true,
+	"globalstrict": true,
+	"loopfunc": true,
+	"newcap": false,
+
+	"globals": {
+		"SetText": false,
+		"smlTitleTimeouts": true,
+		"TogglePause": false
+	}
+}
